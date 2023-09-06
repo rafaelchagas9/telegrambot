@@ -1,0 +1,34 @@
+{
+  "catalogo": {
+    "pacotes": [
+      {
+        "nome": "2B",
+        "descricao": "Pack de cosplay da 2B do Nier Automata",
+        "imagem": "https://picsum.photos/200",
+        "valor": 45.00
+      },
+      {
+        "nome": "Goddess",
+        "descricao": "Pack de cosplay da Goddess",
+        "imagem": "https://picsum.photos/200",
+        "valor": 40.00
+      }
+    ],
+    "assinaturas": [
+      {
+        "nome": "Telegram 15 dias",
+        "descricao": "Telegram VIP por 15 dias",
+        "imagem": "https://picsum.photos/200",
+        "valor": 15.0
+      }
+    ],
+    "servicos": [
+      {
+        "nome": "Miku de aluguel",
+        "descricao": "Miku de aluguel",
+        "imagem": "https://picsum.photos/200",
+        "valor": 100.0
+      }
+    ]
+  }
+}

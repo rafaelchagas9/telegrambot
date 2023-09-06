@@ -1,0 +1,76 @@
+{
+  "catalogo": {
+    "pacotes": [
+      {
+        "nome": "Pacote 1",
+        "descricao": "Descrição do pacote 1",
+        "imagem": "https://picsum.photos/200",
+        "valor": 100.0
+      },
+      {
+        "nome": "Pacote 2",
+        "descricao": "Descrição do pacote 2",
+        "imagem": "https://picsum.photos/200",
+        "valor": 200.0
+      },
+      {
+        "nome": "Pacote 3",
+        "descricao": "Descrição do pacote 3",
+        "imagem": "https://picsum.photos/200",
+        "valor": 300.0
+      },
+      {
+        "nome": "Pacote 4",
+        "descricao": "Descrição do pacote 4",
+        "imagem": "https://picsum.photos/200",
+        "valor": 400.0
+      },
+      {
+        "nome": "Pacote 5",
+        "descricao": "Descrição do pacote 5",
+        "imagem": "https://picsum.photos/200",
+        "valor": 500.0
+      }
+    ],
+    "assinaturas": [
+      {
+        "nome": "Privacidade",
+        "descricao": "Privacidade",
+        "imagem": "https://picsum.photos/200",
+        "valor": 100.0
+      },
+      {
+        "nome": "Telegram 15 dias",
+        "descricao": "Descrição da assinatura 2",
+        "imagem": "https://picsum.photos/200",
+        "valor": 200.0
+      },
+      {
+        "nome": "Telegram 1 mês",
+        "descricao": "Descrição da assinatura 3",
+        "imagem": "https://picsum.photos/200",
+        "valor": 300.0
+      },
+      {
+        "nome": "Telegram 3 meses",
+        "descricao": "Descrição da assinatura 4",
+        "imagem": "https://picsum.photos/200",
+        "valor": 400.0
+      }
+    ],
+    "servicos": [
+      {
+        "nome": "Mk aluguel",
+        "descricao": "Mk aluguel",
+        "imagem": "https://picsum.photos/200",
+        "valor": 100.0
+      },
+      {
+        "nome": "Texting",
+        "descricao": "Texting",
+        "imagem": "https://picsum.photos/200",
+        "valor": 200.0
+      }
+    ]
+  }
+}
